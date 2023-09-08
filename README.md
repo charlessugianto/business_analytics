@@ -1,4 +1,7 @@
 # business_analytics
+Link tableau: https://public.tableau.com/views/Dashboard_CharlesSugianto/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+Link github: abc.com
+Link youtube: abc.com
 # 1. Background dan Tujuan Analisa
 Sebuah perusahaan Shopping Mall menjalankan berbagai iklan dari Juli hingga November 2021. Mereka ingin mengurangi biaya iklan tanpa mengurangi hasilnya, jadi mereka perlu lebih pintar dalam iklan mereka. Mereka juga ingin tahu apakah iklan-iklan yang mereka jalankan menghasilkan keuntungan dan jenis iklan yang paling efektif. Terdapat 4 tujuan Analisa, yaitu sebagai berikut:
 1.	Apakah campaign ini menghasilkan keuntungan?
